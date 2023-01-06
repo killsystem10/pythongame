@@ -7,5 +7,5 @@ temp=input("엔터 시 시작")
 for i in range(1,11):
     print(i, "번째 문제")
     for temp in range(16):
-        word=
+        word=random.randint(0,9)
         print(word)
